@@ -1,2 +1,2 @@
 # TheMetMuseum-App
-A simplified web application to search and display art objects.
+a web application using React and The Metropolitan Museum of Art Collection API which supports searching and collecting favorite art objects. The App was fowllowed by a freecodecamp project by the replit user @john-smilga.
